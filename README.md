@@ -11,3 +11,6 @@ Primeri:
 1x^4+5x^3-7x^2+0x^1-11x^0
 2x^5 + 4x^4 - 20x^3 - 1x^2 - 0x^0
 Opomba : presledkov lahko narediš kolikor hočes in kjer koli hočeš
+
+
+Objavljena je tudi koda in jo lahko pogledaš če te zanima
