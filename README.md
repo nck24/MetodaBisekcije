@@ -8,7 +8,7 @@ Opomba : Če bos veliko ta program uporabljal naredi Shortcut datoteke MetodaBis
 V kakšni obliki moras napisati polinom
 Ko napises polinom moras vpisati vse koeficiente in vse stopnje.
 Primeri:
-1x^4+5x^3-7x^2+0x^1-11x^0
+1x^4+5x^3-7x^2+0x^1-11x^0 ali 
 2x^5 + 4x^4 - 20x^3 - 1x^2 - 0x^0
 Opomba : presledkov lahko narediš kolikor hočes in kjer koli hočeš
 
