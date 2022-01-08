@@ -13,4 +13,4 @@ Primeri:
 Opomba : presledkov lahko narediš kolikor hočes in kjer koli hočeš
 
 
-Objavljena je tudi koda in jo lahko pogledaš če te zanima
+Objavljena je tudi koda in jo lahko pogledaš, če te zanima
