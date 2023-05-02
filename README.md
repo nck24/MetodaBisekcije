@@ -6,10 +6,9 @@ Potem to datoteko Extract-aj. Če želiš program zagnati zaženi v Extract-anem
 Opomba : Če bos veliko ta program uporabljal naredi Shortcut datoteke MetodaBisekcije.exe
 
 V kakšni obliki moras napisati polinom
-Ko napises polinom moras vpisati vse koeficiente in vse stopnje.
+
 Primeri:
-1x^4+5x^3-7x^2+0x^1-11x^0 ali 
-2x^5 + 4x^4 - 20x^3 - 1x^2 - 0x^0
+- 4x^5 + 3x^4 + 2x^3 + 5x^2 + x - 1
 Opomba : presledkov lahko narediš kolikor hočes in kjer koli hočeš
 
 
