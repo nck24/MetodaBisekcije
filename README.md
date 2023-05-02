@@ -1,9 +1,6 @@
 # MetodaBisekcije
 
-Ta program izračuna ničle poljubnega polinoma, ki je vsaj stopnje 3.
-Če želiš imeti tudi ti ta program naloži .7z datoteko ki je v tem Repository-u.
-Potem to datoteko Extract-aj. Če želiš program zagnati zaženi v Extract-anem folderju MetodaBisekcije.exe in se bo program zagnal.
-Opomba : Če bos veliko ta program uporabljal naredi Shortcut datoteke MetodaBisekcije.exe
+Ta program izračuna ničle poljubnega polinoma.
 
 V kakšni obliki moras napisati polinom
 
